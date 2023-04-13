@@ -29,7 +29,7 @@ let meusPontos = 0;
 let pontosOponente = 0;
 
 //veriável de chance de erro
-let chanceErro = 0.5; // chance de erro de 5%
+let chanceErro = 0.05; // chance de erro de 5%
 
 
 //define dimensões da tela
@@ -131,7 +131,7 @@ function movimentaRaqueteOponente(){
 //função incluir placar
  function incluirPlacar(){
       fill(255);
-      text(pontosMeus, 278, 26);
+      text(meusPontos, 278, 26);
       text(pontosOponente, 300, 26);
     }
 
