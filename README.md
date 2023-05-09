@@ -6,7 +6,7 @@
 
 
 
-<h1> Como jogar <h1> 
+<h1> Como jogar </h1> 
   <p> Os controles do jogo são os seguintes: </p>
 
   <p> Use as teclas de seta para cima e para baixo para mover a paleta  para cima e para baixo, respectivamente. </p>
@@ -14,11 +14,10 @@
   <p> O primeiro a marcar 5 pontos vence o jogo. </p>
 
   
-  <h1> Tecnologias usadas
+  <h1> Tecnologias usadas </h1>
  <ul> Este projeto utiliza as seguintes tecnologias: 
 
    <li> JavaScript </li>
    <li> Biblioteca p5.js </li>
    
-    </ul>
 
